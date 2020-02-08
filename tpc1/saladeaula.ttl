@@ -1,0 +1,526 @@
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Número> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" Número"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Nome"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Número> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" Número"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Nome"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Número> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" Número"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Nome"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A81712> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A81712"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ana Filipa Pereira"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A81712> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A81712"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ana Filipa Pereira"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A81712> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A81712"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ana Filipa Pereira"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A71385> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A71385"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Bruno Silva"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A71385> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A71385"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Bruno Silva"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A71385> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A71385"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Bruno Silva"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A78997> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A78997"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Bruno Sousa"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A78997> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A78997"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Bruno Sousa"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A78997> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A78997"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Bruno Sousa"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A82324> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A82324"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Carlos Barbosa"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A82324> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A82324"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Carlos Barbosa"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A82324> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A82324"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Carlos Barbosa"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG37149> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG37149"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Diego Silva"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG37149> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG37149"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Diego Silva"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG37149> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG37149"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Diego Silva"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A75536> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A75536"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Eduardo Araújo"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A75536> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A75536"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Eduardo Araújo"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A75536> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A75536"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Eduardo Araújo"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A71940> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A71940"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Eduardo Cunha"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A71940> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A71940"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Eduardo Cunha"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A71940> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A71940"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Eduardo Cunha"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A70922> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A70922"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Francisco Costa"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A70922> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A70922"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Francisco Costa"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A70922> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A70922"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Francisco Costa"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG38415> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG38415"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Henrique Ribeiro"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG38415> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG38415"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Henrique Ribeiro"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG38415> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG38415"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Henrique Ribeiro"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A80757> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A80757"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Jaime Leite"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A80757> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A80757"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Jaime Leite"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A80757> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A80757"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Jaime Leite"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG33874> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG33874"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" João Grenhas"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG33874> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG33874"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" João Grenhas"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG33874> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG33874"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" João Grenhas"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A75569> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A75569"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" João Leal"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A75569> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A75569"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" João Leal"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A75569> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A75569"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" João Leal"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A80874> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A80874"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" João Pimentel"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A80874> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A80874"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" João Pimentel"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A80874> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A80874"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" João Pimentel"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A76516> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A76516"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" João Vieira"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A76516> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A76516"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" João Vieira"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A76516> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A76516"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" João Vieira"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A80424> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A80424"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" José Carvalho"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A80424> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A80424"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" José Carvalho"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A80424> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A80424"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" José Carvalho"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A63129> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A63129"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" José Freitas"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A63129> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A63129"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" José Freitas"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A63129> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A63129"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" José Freitas"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A72187> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A72187"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" José Lima"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A72187> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A72187"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" José Lima"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A72187> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A72187"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" José Lima"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A74036> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A74036"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Manuel Monteiro"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A74036> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A74036"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Manuel Monteiro"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A74036> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A74036"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Manuel Monteiro"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A67713> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A67713"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Manuel Moreno"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A67713> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A67713"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Manuel Moreno"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A67713> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A67713"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Manuel Moreno"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG39292> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG39292"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Maria Pinto"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG39292> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG39292"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Maria Pinto"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG39292> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG39292"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Maria Pinto"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG41089> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG41089"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Miguel Dias"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG41089> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG41089"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Miguel Dias"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG41089> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG41089"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Miguel Dias"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG17918> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG17918"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Paulo Martins"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG17918> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG17918"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Paulo Martins"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#PG17918> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" PG17918"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Paulo Martins"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A33524> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A33524"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Pedro Paes"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A33524> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A33524"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Pedro Paes"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A33524> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A33524"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Pedro Paes"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A74264> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A74264"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Rafael Silva"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A74264> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A74264"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Rafael Silva"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A74264> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A74264"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Rafael Silva"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A74568> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A74568"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Canela"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A74568> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A74568"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Canela"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A74568> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A74568"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Canela"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A75411> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A75411"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Leal"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A75411> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A75411"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Leal"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A75411> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A75411"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Leal"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A78914> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A78914"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Martins"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A78914> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A78914"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Martins"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A78914> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A78914"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Martins"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A78764> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A78764"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Neves"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A78764> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A78764"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Neves"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A78764> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A78764"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Neves"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A77045> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A77045"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Pereira"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A77045> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A77045"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Pereira"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A77045> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A77045"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Ricardo Pereira"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A79947> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A79947"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Rui Costa"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A79947> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A79947"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Rui Costa"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A79947> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A79947"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Rui Costa"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A74658> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A74658"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Rui Vieira"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A74658> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A74658"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Rui Vieira"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A74658> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A74658"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Rui Vieira"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A82617> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A82617"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Shahzod Yusupov"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A82617> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A82617"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Shahzod Yusupov"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A82617> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A82617"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Shahzod Yusupov"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A75328> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A75328"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Tiago Baptista"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A75328> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A75328"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Tiago Baptista"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A75328> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A75328"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Tiago Baptista"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A61032> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A61032"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Tiago Pereira"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A61032> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A61032"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Tiago Pereira"^^xsd:string .<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#A61032> rdf:type owl:NamedIndividual ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>" A61032"^^xsd:string ;
+<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>" Tiago Pereira"^^xsd:string .

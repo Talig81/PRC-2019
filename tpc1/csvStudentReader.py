@@ -1,0 +1,10 @@
+import csv
+with open('saladeaula.ttl', 'a') as ficheiro:
+    with open('prctpc1.csv', newline='') as csvfile:
+        spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
+        for rows in spamreader:
+            ficheiro.write("<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#"+rows[0]+">"+" rdf:type owl:NamedIndividual ,"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#prc> ;"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>"+"\" "+rows[0]+"\""+"^^xsd:string ;"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>"+"\" "+rows[1]+"\""+"^^xsd:string .")
+            ficheiro.write("<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#"+rows[0]+">"+" rdf:type owl:NamedIndividual ,"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#gcs> ;"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>"+"\" "+rows[0]+"\""+"^^xsd:string ;"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>"+"\" "+rows[1]+"\""+"^^xsd:string .")
+            ficheiro.write("<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#"+rows[0]+">"+" rdf:type owl:NamedIndividual ,"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Aluno> ,"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#Pessoa> ;"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#frequenta> <http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ipln> ;"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#ident>"+"\" "+rows[0]+"\""+"^^xsd:string ;"+"\n"+"<http://www.semanticweb.org/macz/ontologies/2020/SalaAula#nome>"+"\" "+rows[1]+"\""+"^^xsd:string .")
+ficheiro.close()
+csvfile.close()
