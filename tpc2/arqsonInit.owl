@@ -1,0 +1,519 @@
+@prefix : <http://www.semanticweb.org/taliban/ontologies/2020/1/arqson#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/taliban/ontologies/2020/1/arqson> .
+
+<http://www.semanticweb.org/taliban/ontologies/2020/1/arqson> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/taliban/ontologies/2020/1/arqson#partituraDe
+:partituraDe rdf:type owl:ObjectProperty ;
+             rdfs:domain :Partitura ;
+             rdfs:range :Obra .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/taliban/ontologies/2020/1/arqson#afinacao
+:afinacao rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Partitura .
+
+
+###  http://www.semanticweb.org/taliban/ontologies/2020/1/arqson#clave
+:clave rdf:type owl:DatatypeProperty ;
+       rdfs:domain :Partitura .
+
+
+###  http://www.semanticweb.org/taliban/ontologies/2020/1/arqson#compositor
+:compositor rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Obra .
+
+
+###  http://www.semanticweb.org/taliban/ontologies/2020/1/arqson#designacao
+:designacao rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Partitura .
+
+
+###  http://www.semanticweb.org/taliban/ontologies/2020/1/arqson#inf-relacionada
+:inf-relacionada rdf:type owl:DatatypeProperty ;
+                 rdfs:domain :Obra .
+
+
+###  http://www.semanticweb.org/taliban/ontologies/2020/1/arqson#path
+:path rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Partitura .
+
+
+###  http://www.semanticweb.org/taliban/ontologies/2020/1/arqson#tipo
+:tipo rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Obra .
+
+
+###  http://www.semanticweb.org/taliban/ontologies/2020/1/arqson#titulo
+:titulo rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Obra .
+
+
+###  http://www.semanticweb.org/taliban/ontologies/2020/1/arqson#voz
+:voz rdf:type owl:DatatypeProperty ;
+     rdfs:subPropertyOf owl:topDataProperty ;
+     rdfs:domain :Partitura .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/taliban/ontologies/2020/1/arqson#Obra
+:Obra rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/taliban/ontologies/2020/1/arqson#Partitura
+:Partitura rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/taliban/ontologies/2020/1/arqson#md1
+:md1 rdf:type owl:NamedIndividual ,
+              :Obra ;
+     :compositor "TESTE" ;
+     :tipo "TESTE" ;
+     :titulo "teste" .
+
+:m1 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Homenagem a J. Serra";
+:tipo "Marcha de Desfile";
+:compositor "Ilídio Costa".
+
+:m2 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Armindo Alves";
+:tipo "Marcha de Desfile";
+:compositor "Ilídio Costa".
+
+:m3 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "1989";
+:tipo "Marcha de Desfile";
+:compositor "A. Morais".
+
+:m4 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Manuel Joaquim ALmeida";
+:tipo "Marcha de Desfile";
+:compositor "Carlos Marques".
+
+:m5 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Holiday in Rio";
+:tipo "Marcha de Concerto/Pasodoble";
+:compositor "W. Scneider - Argenbuhl".
+
+:m6 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "São Martinho";
+:tipo "Marcha de Procissão";
+:compositor "Carlos Marques".
+
+:m7 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Avé Maria";
+:tipo "Marcha de Procissão";
+:compositor "Alberto Madureira".
+
+:m8 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Corpo Místico";
+:tipo "Marcha de Procissão";
+:compositor "Amílcar Morais".
+
+:m9 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Súplica";
+:tipo "Marcha de Procissão";
+:compositor "A. Madureira da Silva".
+
+:m10 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Senhora Nossa";
+:tipo "Marcha de Procissão";
+:compositor "Álvaro Reis".
+
+:m11 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Invocação a Deus";
+:tipo "Marcha de Procissão";
+:compositor "Fernando Ferreira da Costa".
+
+:m12 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "São Bento";
+:tipo "Marcha de Procissão";
+:compositor "Valdemar Sequeira".
+
+:m13 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Casa de S. Paulo";
+:tipo "Marcha de Procissão";
+:compositor "Ilídio Costa".
+
+:m14 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Filarmonia";
+:tipo "Marcha de Desfile";
+:compositor "Afonso Alves".
+
+:m15 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Caçadores do I";
+:tipo "Marcha de Desfile";
+:compositor "Amílcar Morais".
+
+:m16 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Homenagem ao Dr Manuel Vaz";
+:tipo "Marcha de Desfile";
+:compositor "Alexandre da Fonseca".
+
+:m17 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Homenagem a Vila Verde";
+:tipo "Marcha de Desfile";
+:compositor "Alexandre Teixeira Fonseca".
+
+:m18 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "12 de Abril";
+:tipo "Marcha de Desfile";
+:compositor "Alexandre Fonseca".
+
+:m19 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Tarântula";
+:tipo "Marcha de Desfile";
+:compositor "Amílcar Morais".
+
+:m20 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Cassiopeia";
+:tipo "Abertura/Concerto";
+:compositor "Carlos Marques".
+
+:m21 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "António Nogueira";
+
+:m22 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Marcha Eslava";
+:tipo "Abertura/Concerto";
+:compositor "Tchaikovsky".
+
+:m23 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Fate of the Gods";
+:tipo "Abertura/Concerto";
+:compositor "Steven Reineke".
+
+:m24 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Vamos à Romaria";
+:tipo "Rapsódia";
+:compositor "Valdemar Sequeira".
+
+:m25 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Português Suave";
+:tipo "Rapsódia";
+:compositor "Carlos Marques".
+
+:m26 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Cycles and Myths";
+:tipo "Abertura/Concerto";
+:compositor "Nuno Osório".
+
+:m27 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Canções da Tradição";
+:tipo "Rapsódia";
+:compositor "Luís Cardoso".
+
+:m28 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Abba Mia";
+:tipo "Ligeiro/Fantasia";
+:compositor "ABBA".
+
+:m29 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Ross Roy";
+:tipo "Abertura/Concerto";
+:compositor "Jacob de Haan".
+
+:m30 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "76 Trombones";
+:tipo "Marcha de Concerto/Pasodoble";
+:compositor "Meredith Willson".
+
+:m31 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Highlights from 'Chess'";
+:tipo "Abertura/Concerto";
+:compositor "Ulvaeus Andersson".
+
+:m32 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Cavalaria Ligeira";
+:tipo "Abertura/Concerto";
+:compositor "Franz Von Suppé".
+
+:m33 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Paquito Chocolatero";
+:tipo "Marcha de Desfile";
+:compositor "Gustavo Pascual Falcó".
+
+:m34 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Xabia";
+:tipo "Marcha de Desfile";
+:compositor "Salvador Salvá".
+
+:m35 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Bands Around the World";
+:tipo "Ligeiro/Fantasia";
+:compositor "Harold Walters".
+
+:m36 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Hispânico";
+:tipo "Marcha de Concerto/Pasodoble";
+:compositor "Nuno Osório".
+
+:m40 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Xutos Medley";
+:tipo "Ligeiro/Fantasia";
+:compositor "Xutos e Pontapés".
+
+:m41 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Sonhos de Portugal";
+:tipo "Rapsódia";
+
+:m42 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Pilatus: Mountain of Dragons";
+:tipo "Abertura/Concerto";
+:compositor "Steven Reineke".
+
+:m43 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Marcha Radetzky";
+:tipo "Marcha de Concerto/Pasodoble";
+:compositor "J. Strauss".
+
+:m44 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Vila Franca";
+:tipo "Marcha de Concerto/Pasodoble";
+:compositor "Jorge Salgueiro".
+
+:m45 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Momentos Menores";
+:tipo "Ligeiro/Fantasia";
+:compositor "Ilídio Costa".
+
+:m46 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Santana";
+:tipo "Ligeiro/Fantasia";
+:compositor "Santana".
+
+:m47 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Bailar em Nespereira";
+:tipo "Rapsódia";
+:compositor "Valdemar Sequeira".
+
+:m48 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Transfiguração";
+:tipo "Marcha de Procissão";
+:compositor "António Almeida da Silva".
+
+:m49 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Tannhauser Ouverture";
+:tipo "Abertura/Concerto";
+:compositor "Richard Wagner".
+
+:m50 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Harmonique";
+:tipo "Marcha de Concerto/Pasodoble";
+:compositor "Wim Laseroms".
+
+:m51 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Crucifixus";
+:tipo "Marcha de Procissão";
+:compositor "José Alberto Pina".
+
+:m52 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Aguas do Botaréu";
+:tipo "Marcha de Desfile";
+:compositor "Amílcar Morais".
+
+:m53 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Fantasma da Ópera";
+:tipo "Abertura/Concerto";
+:compositor "Andrew Lloyd Webber".
+
+:m54 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Jigs: Duas Danças Tradicionais Irlandesas";
+:tipo "Ligeiro/Fantasia";
+:compositor "Carlos Marques".
+
+:m55 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "La Tuba Bregosa";
+:tipo "Ligeiro/Fantasia";
+:compositor "J. Molina".
+
+:m56 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Cidade Esposende";
+:tipo "Marcha de Desfile";
+:compositor "Valdemar Sequeira".
+
+:m57 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "ABBA Gold";
+:tipo "Ligeiro/Fantasia";
+:compositor "ABBA".
+
+:m58 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Gibraltar";
+:tipo "Marcha de Concerto/Pasodoble";
+:compositor "Richard Waterer".
+
+:m59 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Moment for Morricone";
+:tipo "Ligeiro/Fantasia";
+:compositor "Ennio Morricone".
+
+:m60 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Poeta e Aldeão";
+:tipo "Abertura/Concerto";
+:compositor "Franz Von Suppé".
+
+:m61 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Pérola 59";
+:tipo "Marcha de Concerto/Pasodoble";
+:compositor "Angelo Moreira".
+
+:m62 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Immer Kleiner";
+:tipo "Ligeiro/Fantasia";
+:compositor "Adolf Schreiner".
+
+:m63 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Filhos da Nação";
+:tipo "Marcha de Desfile";
+:compositor "Quinta do Bill".
+
+:m64 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Horizonte da Razão";
+:tipo "Marcha de Concerto/Pasodoble";
+:compositor "Alexandre Fonseca".
+
+:m65 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Latin Pop Special";
+:tipo "Ligeiro/Fantasia";
+:compositor "M. Taylor, D. Child, P. Barry, R. Rosa".
+
+:m66 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "La Storia";
+:tipo "Abertura/Concerto";
+:compositor "Jacob de Haan".
+
+:m67 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Zé Pedro";
+:tipo "Marcha de Desfile";
+:compositor "Alexandre Fonseca".
+
+:m68 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Macarena";
+:tipo "Ligeiro/Fantasia";
+:compositor "Bernardino Bautista Monteverde".
+
+:m69 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Concha";
+:tipo "Marcha de Procissão";
+:compositor "Victor M. Ferrer".
+
+:m70 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Hosanna in excelsis";
+:tipo "Marcha de Procissão";
+:compositor "Oscar Navarro".
+
+:m71 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Jerusalen";
+:tipo "Marcha de Procissão";
+:compositor "José Velez Garcia".
+
+:m72 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "S. João de Braga";
+:tipo "Marcha de Desfile";
+:compositor "Popular".
+
+:m73 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "A Portuguesa";
+:tipo "Marcha de Desfile";
+:compositor "Alfredo Keil".
+
+:m74 rdf:type owl:NamedIndividual ,
+ :Obra ;
+ :titulo "Juízo Final";
+:compositor "Camillo de Nardis".
+
+
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
